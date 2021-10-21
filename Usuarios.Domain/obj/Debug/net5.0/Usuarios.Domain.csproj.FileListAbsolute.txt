@@ -1,0 +1,15 @@
+C:\Users\leo_m\Desktop\Teste\ConfitecAPI\Usuarios.Domain\bin\Debug\net5.0\Usuarios.Domain.deps.json
+C:\Users\leo_m\Desktop\Teste\ConfitecAPI\Usuarios.Domain\bin\Debug\net5.0\Usuarios.Domain.dll
+C:\Users\leo_m\Desktop\Teste\ConfitecAPI\Usuarios.Domain\bin\Debug\net5.0\ref\Usuarios.Domain.dll
+C:\Users\leo_m\Desktop\Teste\ConfitecAPI\Usuarios.Domain\bin\Debug\net5.0\Usuarios.Domain.pdb
+C:\Users\leo_m\Desktop\Teste\ConfitecAPI\Usuarios.Domain\obj\Debug\net5.0\Usuarios.Domain.csprojAssemblyReference.cache
+C:\Users\leo_m\Desktop\Teste\ConfitecAPI\Usuarios.Domain\obj\Debug\net5.0\Usuarios.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo_m\Desktop\Teste\ConfitecAPI\Usuarios.Domain\obj\Debug\net5.0\Usuarios.Domain.AssemblyInfoInputs.cache
+C:\Users\leo_m\Desktop\Teste\ConfitecAPI\Usuarios.Domain\obj\Debug\net5.0\Usuarios.Domain.AssemblyInfo.cs
+C:\Users\leo_m\Desktop\Teste\ConfitecAPI\Usuarios.Domain\obj\Debug\net5.0\Usuarios.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leo_m\Desktop\Teste\ConfitecAPI\Usuarios.Domain\obj\Debug\net5.0\Usuarios.Domain.dll
+C:\Users\leo_m\Desktop\Teste\ConfitecAPI\Usuarios.Domain\obj\Debug\net5.0\ref\Usuarios.Domain.dll
+C:\Users\leo_m\Desktop\Teste\ConfitecAPI\Usuarios.Domain\obj\Debug\net5.0\Usuarios.Domain.pdb
+C:\Users\leo_m\Desktop\Teste\ConfitecAPI\Usuarios.Domain\bin\Debug\net5.0\Usuarios.Domain.runtimeconfig.json
+C:\Users\leo_m\Desktop\Teste\ConfitecAPI\Usuarios.Domain\bin\Debug\net5.0\Usuarios.Domain.runtimeconfig.dev.json
+C:\Users\leo_m\Desktop\Teste\ConfitecAPI\Usuarios.Domain\obj\Debug\net5.0\Usuarios.Domain.genruntimeconfig.cache
