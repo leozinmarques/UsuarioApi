@@ -9,6 +9,8 @@ namespace Domain.Entities
         public string Email { get; set;}
         public DateTime DataNascimento { get; set;}
         public int Escolaridade { get; set;}
+        
+        //TODO implementar relacionamento com Escolaridade
 
     }
 }
